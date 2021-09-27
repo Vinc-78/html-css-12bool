@@ -183,9 +183,12 @@ lg:992px
 
 }
 
+/* Classi aggiunte per allineare i box */
 
 .inizio {justify-content: flex-start;}
+
 .centro {justify-content: center;}
+
 .fine{justify-content: flex-end;}
 
 
@@ -195,3 +198,6 @@ lg:992px
 
 .bottom {align-self:flex-end;}
 
+.space-around {justify-content: space-around;}
+
+.space-between {justify-content: space-between;}
