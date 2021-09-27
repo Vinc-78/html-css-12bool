@@ -182,3 +182,16 @@ lg:992px
 
 
 }
+
+
+.inizio {justify-content: flex-start;}
+.centro {justify-content: center;}
+.fine{justify-content: flex-end;}
+
+
+.top{align-self: flex-start;}
+
+.middle {align-self: center;}
+
+.bottom {align-self:flex-end;}
+
